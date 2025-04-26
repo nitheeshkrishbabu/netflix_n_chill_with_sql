@@ -311,7 +311,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 Dive into Netflix data with pure SQL! Using PostgreSQL, this project uncovers hidden insights in the Netflix catalog—genres, release trends, durations, and more
 
-- **LinkedIn**: (https://www.linkedin.com/in/nitheesh-krishna-08b207258)
-- **Email-ID**: (nitheeshkrishbabu@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nitheesh-krishna-08b207258)
+- **Email-ID**: [mail](nitheeshkrishbabu@gmail.com)
 
 Thank you!
